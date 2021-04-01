@@ -1,5 +1,4 @@
-import pyautogui
-import time
+import pyautogui,time
 
 msg = input("Enter the message: ")
 a = input("How many times ?: ")
