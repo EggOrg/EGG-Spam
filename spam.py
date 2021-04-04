@@ -1,8 +1,8 @@
 import pyautogui,time
 
-msg = input("Enter the message: ")
-a = input("How many times ?: ")
-t = input("how many seconds between each message: ")
+msg = input("[?] - Enter the message: ")
+a = input("[?] - How many times?: ")
+t = input("[?] - How many seconds between each message?: ")
 
 
 for i in range(1, 6):
